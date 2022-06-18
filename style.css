@@ -1,0 +1,13 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  margin: 1em;
+  width: 50%;
+  margin-top: 5em;
+}
+.form-s {
+  background-color: aquamarine;
+  width: 60%;
+  border: 0.2rem solid black;
+}
